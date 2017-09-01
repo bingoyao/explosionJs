@@ -12,21 +12,24 @@ html,body{
     user-select: none;
     cursor: default;
 }
+#head{
+    height:40%;
+}
 #head h1{
-    font-size: 2em;
+    font-size: 4em;
     
-    padding: 50px;
+    padding: 40px;
     text-align: center;
 }
 #head p{
     text-indent: 40px;
-    padding: 40px;
+    padding: 10px;
     text-align: center;
-    font-size: 1em;
+    font-size: 1.5em;
 }
 #content{
     width: 80%;
-    height: 300px;
+    height: 50%;
     min-height: 100px;
     margin: auto;
     border: 1px solid;
@@ -39,5 +42,5 @@ html,body{
     text-align: center;
     color: #4a708e;
     line-height: 60px;
-    
+    height:40%;
 }
