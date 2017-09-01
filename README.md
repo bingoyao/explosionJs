@@ -19,4 +19,4 @@ new Explosion({
       }    
     });    
 </pre>
-### [demo](https://github.com/bingoyao/explosionJs)
+### [demo](https://bingoyao.cn/explosionJs)
